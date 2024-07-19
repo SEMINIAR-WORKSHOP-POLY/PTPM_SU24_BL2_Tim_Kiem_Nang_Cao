@@ -51,7 +51,7 @@ public class SanPham {
 
     @Override
     public String toString() {
-        return "SanPham{" + "id=" + id + ", ma=" + ma + ", ten=" + ten + '}';
+        return ten;
     }
 
 }

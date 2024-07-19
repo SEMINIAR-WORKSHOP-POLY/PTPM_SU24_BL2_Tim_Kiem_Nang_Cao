@@ -51,7 +51,7 @@ public class DongSanPham {
 
     @Override
     public String toString() {
-        return "DongSanPham{" + "id=" + id + ", ma=" + ma + ", ten=" + ten + '}';
+        return ten;
     }
 
 }

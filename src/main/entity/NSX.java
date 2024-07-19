@@ -49,9 +49,9 @@ public class NSX {
         this.ten = ten;
     }
 
-    @Override
+   @Override
     public String toString() {
-        return "NSX{" + "id=" + id + ", ma=" + ma + ", ten=" + ten + '}';
+        return ten;
     }
     
 }

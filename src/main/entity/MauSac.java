@@ -51,7 +51,7 @@ public class MauSac {
 
     @Override
     public String toString() {
-        return "MauSac{" + "id=" + id + ", ma=" + ma + ", ten=" + ten + '}';
+        return ten;
     }
 
 }
